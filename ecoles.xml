@@ -1,0 +1,606 @@
+<?xml version ="1.0" ?>
+<?xml-stylesheet type ="text/xsl" href ="ecoles.xsl" ?>
+
+<!DOCTYPE gestion_ecole SYSTEM "ecoles.dtd">
+
+
+<gestion_ecole>
+   
+    
+   <universite type="public">
+      <nom acronyme="UM5">L'université Mohammed-V de Rabat</nom>
+      <date-creation>1957</date-creation>
+      <composantes>18 etablissements affiliés dont 5 Instituts de recherche</composantes>
+      <descriptif>L'université Mohammed-V de Rabat est une université marocaine située à Rabat. Elle est officiellement inaugurée par le roi Mohammed V, le 21 décembre 19571. En 1994-1995, elle s'est divisée en deux universités indépendantes – l'université Mohammed V - Agdal, dans le quartier Agdal et l'université Mohammed V - Souissi sur le campus d'Al Irfane. Le 1er septembre 2014, celles-ci fusionnent pour redonner naissance à l'université Mohammed-V de Rabat2. Pour la simplicité, l'université est parfois nommée UM5.</descriptif>
+      <image>images/um5.jpg</image>
+      <adresse>Avenue des Nations Unies B.P:8007 Agdal Rabat</adresse>
+      <site>www.um5.ac.ma</site>
+      <email>présidence@um5.ac.ma</email>
+      <telephones>
+         <telephone>0537671401</telephone>
+         <telephone>0537272750</telephone>	
+      </telephones>
+   </universite>
+   
+   <universite type="public">
+      <nom acronyme="UH2C">Université Hassan II de Casablanca</nom>
+      <date-creation>2014</date-creation>
+      <composantes>18 etablissements affiliés</composantes>
+      <descriptif>L'université Hassan II de Casablanca (UH2C) (en amazighe : Tasdawit Leḥsen wiss sin n Kaẓa, en arabe : جامعة الحسن الثاني بالدارالبیضاء) Implantée au sein de la capitale économique du Maroc, l’université Hassan II de Casablanca est une université publique, qui répond aux missions du service public de l’enseignement supérieur, de la recherche et de l’innovation. L’université Hassan II de Casablanca a été créée en septembre 2014 après la fusion de l'université Hassan II Mohammedia et celle de Casablanca. Avec ses 6 campus, ses 18 établissements situés à Casablanca et à Mohammedia, et 84 931 étudiants composés de locaux et d'étrangers, elle est la plus grande université au Maroc.</descriptif>
+      <image>images/uh2c.jpg</image>
+      <adresse>19, Rue Tarik Ibnou Ziad, Mers Sultan, BP : 9167, Casablanca, Maroc</adresse>
+      <site>www.univh2c.ma</site>
+      <email>contact@usms.ma</email>
+      <telephones>
+         <telephone>06 14 00 04 00</telephone>
+         <telephone>06 14 00 04 07</telephone>
+      </telephones>
+   </universite>
+   
+   <universite type="public">
+      <nom acronyme="USMBA">Université Sidi Mohamed Ben Abdellah de Fès</nom>
+      <date-creation>1975</date-creation>
+      <composantes>12 etablissements affiliés</composantes>
+      <descriptif>L'université Sidi Mohamed Ben Abdellah est une institution d’enseignement public supérieur et de recherche scientifique marocaine, à but non lucratif. Elle est située dans la ville de Fès au Maroc. Ella a été fondée le 17 octobre 1975.</descriptif>
+      <image>images/usmba.jpg</image>
+      <adresse>B.P : 2626, Route d’Imouzzer, Fès, Maroc</adresse>
+      <site>www.usmba.ac.ma</site>
+      <email>--</email>
+      <telephones>
+         <telephone>05 35 60 96 61</telephone>
+         <telephone>05 35 60 96 60</telephone>
+      </telephones>
+   </universite>
+   
+   <universite type="public">
+      <nom acronyme="UCA">Université Cadi Ayyad</nom>
+      <date-creation>1978</date-creation>
+      <composantes>12 etablissements affiliés</composantes>
+      <descriptif>L'université Cadi Ayyad de Marrakech est une université publique fédérant les établissements d'enseignement supérieur de Marrakech, El Kelaâ des Sraghna, Essaouira et Safi. Elle est classée par le Times Higher Education1 parmi les 100 meilleures universités au monde ayant moins de 50 ans d'existence. Elle est classée par le U.S. News and World Report au 23e rang dans le classement régional 2016 des universités arabes</descriptif>
+      <image>images/uca.jpg</image>
+      <adresse>Av Abdelkrim Khattabi, B.P. 511 - 40000 -</adresse>
+      <site>www.uit.ac.ma/</site>
+      <email>ucacom@uca.com</email>
+      <telephones>
+         <telephone>(+212) 5 24 43 44 94</telephone>
+         <telephone>(+212) 524 437 741</telephone>
+      </telephones>
+   </universite>
+   
+   <universite type="public">
+      <nom acronyme="UMI">Université Moulay-Ismaïl</nom>
+      <date-creation>1989</date-creation>
+      <composantes>9 etablissements affiliés</composantes>
+      <descriptif>L'Université Moulay-Ismaïl est une institution d'enseignement supérieur publique et de recherche scientifique à but non lucratif, située à Meknès, au Maroc. L'université a été créée le 23 octobre 1989 par le dahir no 21-86-144. Elle est classée 100e dans le classement régional 2016 des universités arabes (U.S.News and World Report)1.</descriptif>
+      <image>images/umi.jpg</image>
+      <adresse>Présidence, Marjane 2, BP:298, Meknes, MAROC</adresse>
+      <site>www.umi.ac.ma</site>
+      <email>presidence@umi.ac.ma</email>
+      <telephones>
+         <telephone>0535 467 305</telephone>
+         <telephone>0535 467 306</telephone>
+      </telephones>
+   </universite>
+   
+   <universite type="public">
+      <nom acronyme="UIZ">Université Ibn Zohr</nom>
+      <date-creation>1989</date-creation>
+      <composantes>15 etablissements affiliés dont 9 facultés et 6 écoles</composantes>
+      <descriptif>L’université Ibn Zohr est une université marocaine située à Agadir. Elle est classée 82e dans le classement régional 2016 des universités arabes (U.S.News and World Report)</descriptif>
+      <image>images/uiz.jpg</image>
+      <adresse>BP 32/S, CP 80000 Agadir, Maroc</adresse>
+      <site>www.uiz.ac.ma</site>
+      <email>contact@uiz.ac.ma</email>
+      <telephones>
+         <telephone>+212528227125</telephone>
+         <telephone>+2125282272606</telephone>
+      </telephones>
+   </universite>
+   
+   <universite type="public">
+      <nom acronyme="UAE">Université Abdelmalek Essaâdi de Tétouan</nom>
+      <date-creation>1989</date-creation>
+      <composantes>15 etablissements affiliés</composantes>
+      <descriptif>L'Université Abdelmalek Essaâdi est une université marocaine publique créée en 1989. Elle est considérée comme l'université principale du Nord du Royaume Marocain. Cette université est composée de 15 institutions, notamment des écoles et des établissements répartis dans la région Tanger-Tétouan-AL Hoceima et dans la ville de Larache. L'Université est classée 82e dans le classement régional 2016 des universités arabes (U.S.News and World Report)</descriptif>
+      <image>images/uae.png</image>
+      <adresse>Quartier M'haneche II, Avenue Palestine (près de la Faculté des Sciences), B.P : 2117, Tétouan, Maroc</adresse>
+      <site>www.uae.ma</site>
+      <email>presidence@uae.ac.ma</email>
+      <telephones>
+         <telephone>05 39 97 93 16</telephone>
+      </telephones>
+   </universite>
+   
+   <universite type="public">
+      <nom acronyme="UIT">Université Ibn-Tofail de Kenitra</nom>
+      <date-creation>1989</date-creation>
+      <composantes>7 etablissements affiliés</composantes>
+      <descriptif>L'université Ibn Tofaïl est une université publique marocaine située à Kénitra. Elle est classée 94e dans le classement régional 2016 des universités arabes</descriptif>
+      <image>images/uit.jpg</image>
+      <adresse>Adresse : B.P 242 Kénitra Maroc</adresse>
+      <site>www.uit.ac.ma/</site>
+      <email>presidence@uit.ac.ma</email>
+      <telephones>
+         <telephone>(+212) 6 61 40 35 57</telephone>
+      </telephones>
+   </universite>
+
+   <universite type="public">
+      <nom acronyme="UMP">Université Mohammed Premier d’Oujda</nom>
+      <date-creation>1978</date-creation>
+      <composantes>8 etablissements affiliés</composantes>
+      <descriptif>L'université Mohammed Ier Créée en 1978,constitue un ensemble d'établissements de la région de l'Oriental, au Maroc, dont la majorité se trouve à Oujda. Elle est classée 32e dans le classement régional 2016 des universités arabes (U.S.News and World Report)</descriptif>
+      <image>images/ump.jpg</image>
+      <adresse>Boulevard Mohammed VI, B.P : 524, 60000, Oujda, Maroc</adresse>
+      <site>www.ump.ma</site>
+      <email>contact@ump.ac.ma</email>
+      <telephones>
+         <telephone>05 36 50 06 12</telephone>
+         <telephone>05 36 50 06 14</telephone>
+      </telephones>
+   </universite>
+   
+   <universite type="public">
+      <nom acronyme="USMS">Université Sultan Moulay Slimane de Béni Mellal</nom>
+      <date-creation>2006</date-creation>
+      <composantes>12 etablissements affiliés</composantes>
+      <descriptif>Créée en 2006, l’Université Sultan Moulay Slimane de Béni Mellal (USMS Béni Mellal) est une université publique d’enseignement et de recherche, située couvrant la région de Béni Mellal-Khénifra et elle est considérée parmi les jeunes universités du Maroc. L’Université Sultan Moulay Slimane de Béni Mellal compte, à l’heure actuelle, sept établissements d’enseignement supérieur avec des implantations dans les villes de Béni Mellal, Khouribga, Khénifra et, prochainement, Fquih Ben Saleh. D’autres établissements viendront élargir le réseau de l’USMS Béni Mellal dans un futur proche.</descriptif>
+      <image>images/usms.jpg</image>
+      <adresse>Av. Med V, B.P : 591, Béni Mellal, Maroc</adresse>
+      <site>www.usms.ac.ma</site>
+      <email>contact@usms.ma</email>
+      <telephones>
+         <telephone>05 23 48 02 18</telephone>
+      </telephones>
+   </universite>
+
+  
+
+
+
+   
+
+   <ecole type="public">
+      <nom acronyme="EMI">Ecole Mohammadia d'ingénieurs</nom>
+      <date-creation>1959</date-creation>
+      <categorie>Ecole d'ingénieur</categorie>
+      <descriptif>L'École Mohammadia d'Ingénieurs (EMI) est l'une des grandes écoles d'ingénieurs au Maroc, elle est située au quartier de l'Agdal à Rabat et attachée à l'Université Mohammed V de Rabat. L'EMI a été inaugurée par feu le roi Mohammed V en 1959, trois ans après l'indépendance du Maroc. </descriptif>
+      <image>images/emi.jpg</image>
+	  <adresse>Avenue Ibn Sina, Rabat</adresse>
+      <site>www.emi.ac.ma/</site>
+      <email>contact@emi.ac.ma</email>
+      <telephones>
+      	<telephone>05377-71905</telephone>
+      	<telephone>05376-87150</telephone>	
+      </telephones>
+
+      
+      <diplomes>
+         <diplome>
+            <nom>Ingénieur d'état</nom>
+            <duree>5 ans</duree>
+            <filieres>
+            	<filiere>
+            		<nom>Genie Informatique</nom>
+            		<descriptif>Le génie informatique, ou ingénierie informatique, est une discipline qui traite de la conception, du développement et de la fabrication de systèmes informatiques, à la fois matériels et logiciels.</descriptif>
+            	</filiere>
+            	<filiere>
+            		<nom>Genie Civil</nom>
+            		<descriptif>LLe Génie Civil regroupe de nombreux corps d'états; des travaux de fondations à la pose de la charpente, en passant par la maçonnerie, l'électricité, la plomberie. </descriptif>
+            	</filiere>
+               <filiere>
+                  <nom>Génie Industriel</nom>
+                  <descriptif>Le génie industriel englobe la conception, l'amélioration et l'installation de systèmes intégrés. Il utilise les connaissances pour des sciences mathématiques, physiques et sociales, ainsi que les principes et méthodes propres au “génie” ou, à l'art de l'ingénieur, dans le but de spécifier, prédire et évaluer les résultats découlant de ces systèmes. » </descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Genie Mécanique</nom>
+                  <descriptif>Le département du génie mécanique est l’un des principaux grands départements de base de l’école dont l’existence remonte à la création de l’école. Il allie la valeur sûre et inaltérable d’une formation classique en génie mécanique et omniprésente et indispensable à toutes les autres disciplines des sciences et techniques de l’ingénieur, à une continuelle adaptation à un monde industriel en perpétuelle  évolution par l’intégration de techniques modernes et de pointe.</descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Genie minérale</nom>
+                  <descriptif>Le cursus de formation du département Génie Minéral, l'un des plus anciens départements de l'Ecole Mohammedia d'Ingénieurs, est défini de façon à doter l’ingénieur d’outils modernes nécessaires à : L'évaluation et la valorisation durable des richesses naturelles, la connaissance du sol et du sous-sol qui constituent l'assise des grands ouvrages, la prévention des catastrophes naturelles, la réhabilitation des sites exploités et la protection des sites sensibles, tout en tenant compte de La dimension Environnement et le dégagement et la gestion des ressources en eau.</descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Genie MIS</nom>
+                  <descriptif>La formation du génie MIS (Modélisation et Informatique Scientifique) est conçue de manière à assurer, en plus d’une bonne maîtrise de l’outil informatique et des outils du calcul scientifique, une formation technique aussi large que possible qui couvre différents domaines de l’Ingénierie, tout en privilégiant les secteurs de pointe, qui offrent plus de potentialités pour une mise à profit de l’outil informatique. Une importance particulière est également accordée aux nouvelles techniques de communication et de management.</descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Genie des procédés</nom>
+                  <descriptif>Le génie des procédés a pour but l’utilisation des outils scientifiques et techniques pour la transformation de la matière dans un cadre industriel. Il consiste en la conception, le dimensionnement et la gestion d’un procédés industriel dans le respect des contraintes économiques, techniques, environnementaux, de développement durable et de sécurité.</descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Genie Electrique</nom>
+                  <descriptif>Le département génie électrique a pour vocation la formation d’ingénieurs aptes à maitriser l’évolution dans des domaines aussi variés que la distribution, la production et la conversion de l’énergie électrique, l’électronique et les télécommunications , et l’automatisation et la conduite des procèdes industriels. L’objectif de cette formation est de permettre aux étudiants d’acquérir des connaissances de base en électronique analogique et numérique, transmission de données, théorie de communication, machines électriques, électronique de puissance, automatique, informatique et en théorie des réseaux.</descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Filière réseaux et télécoms</nom>
+                  <descriptif>Cette formation a pour objectif de former des ingénieurs en Télécommunications et Technologies de l'Information à haut potentiel, capables d’adapter rapidement leurs compétences techniques et managériales à des spécificités locales ou internationales. Mais aussi elle a pour objectif offrir aux entreprises des profils de jeunes diplômés capables de s'insérer dans un large contexte industriel couvrant tous les secteurs et métiers des télécommunications et des technologies de l'information.</descriptif>
+               </filiere>	
+            		
+            </filieres>	
+         </diplome>
+      </diplomes>
+
+   </ecole>
+
+
+   <ecole type="public">
+      <nom acronyme="ENSIAS">Ecole Nationale Supérieure d’Informatique et d’Analyse des Systèmes</nom>
+      <date-creation>1992</date-creation>
+      <categorie>Ecole d'ingénieur</categorie>
+      <descriptif>L’École Nationale Supérieure d’Informatique et d’Analyse des Systèmes (ENSIAS) est l'une des grandes écoles d'ingénieurs marocaines rattachée à l'université Mohammed V de Rabat. Les étudiants et diplômés sont appelés les Ensiastes.</descriptif>
+      <image>images/ensias.jpg</image>
+      <adresse>Avenue Mohammed Ben Abdallah Regragui, Madinat Al Irfane, BP 713, Agdal Rabat, Maroc</adresse>
+      <site>ensias.um5.ac.ma</site>
+      <email>--</email>
+      <telephones>
+      	<telephone>05377-77230</telephone>
+      	
+      </telephones>
+
+      
+      <diplomes>
+         <diplome>
+            <nom>Ingénieur d'état</nom>
+            <duree>5 ans</duree>
+            <filieres>
+            	<filiere>
+            		<nom>eMBI</nom>
+            		<descriptif>e-Management et Business Intelligence</descriptif>
+            	</filiere>
+            	<filiere>
+            		<nom>ISEM</nom>
+            		<descriptif>Ingénierie des Systèmes Embarqués, Mobiles</descriptif>
+            	</filiere>	
+            	<filiere>
+            		<nom>GL</nom>
+            		<descriptif>Génie Logiciel </descriptif>
+            	</filiere>
+            	<filiere>
+            		<nom>IWIM</nom>
+            		<descriptif>Ingénierie du Web et Informatique Mobile </descriptif>
+            	</filiere>	
+            	<filiere>
+            		<nom>IeL</nom>
+            		<descriptif>Ingénierie e-Logistique</descriptif>
+            	</filiere>
+            	<filiere>
+            		<nom>SSI</nom>
+            		<descriptif>Sécurité des Systèmes d'Information </descriptif>
+            	</filiere>	
+            		
+            </filieres>	
+         </diplome>
+         <diplome>
+            <nom>Diplome de master</nom>
+            <duree>2 ans</duree>
+            <filieres>
+            	<filiere>
+            		<nom>Master Recherche en Sciences des données et Big Data</nom>
+            		<descriptif>Le master recherche SCIENCE DE DONNEES ET BIG DATA vise à former des chercheurs pluridisciplinaires dans le domaine du stockage, organisation, fouille et analyse des données massives en leur donnant un bagage théorique solide et les outils technologiques nécessaires pour mener des recherches dans ce domaine.</descriptif>
+            	</filiere>
+            	<filiere>
+            		<nom>Master spécialisé en Internet des objets et services mobiles</nom>
+            		<descriptif>La formation en master « Internet des Objets : Logiciel et Analytique » (MIOLA) offre l’opportunité aux apprenants de découvrir et de se perfectionner dans les technologies émergentes notamment : l’Internet des Objets, l’Ingénierie Web et Mobile, DevOps, UX Design, le Cloud et Virtualisation</descriptif>
+            	</filiere>	
+            		
+            </filieres>	
+         </diplome>
+      </diplomes>
+
+   </ecole>
+
+ <!-- Filière Génie Génie Electrique --> 
+   
+   
+  <!-- ENVOYEES PAR WIAM -->
+   <ecole type="public">
+      <nom acronyme="INSEA">Institut national de statistique et d'économie appliquée</nom>
+      <date-creation>1961</date-creation>
+      <categorie>Ecole d'ingénieur</categorie>
+      <descriptif>L'Institut national de statistique et d'économie appliquée (INSEA)  est l'une des grandes écoles d'ingénieurs marocaines située à Rabat</descriptif>
+      <image>images/insea.jpg</image>
+      <adresse>Avenue Allal El Fassi, Cité Al Irfane, B. P 62- 10100 Rabat Institut </adresse>
+      <site>http://www.insea.ac.ma/</site>
+      <email>--</email>
+      <telephones>
+         <telephone>: (212) 05 37 77 48 59</telephone>
+         
+      </telephones>
+      
+      
+      <diplomes>
+         <diplome>
+            <nom>Ingénieur d'état</nom>
+            <duree>5 ans</duree>
+            <filieres>
+               <filiere>
+                  <nom>Statistique - Economie appliquée;</nom>
+                  <descriptif>Les ingénieurs diplômés de la filière Statistique-Economie auront toutes les compétences pour
+                     occuper rapidement des responsabilités de cadres supérieures dans les secteurs de
+                     l’administration, l'industrie, les banques, l'environnement, les services, consulting … . Les lauréats
+                     de la filière Statistique-Economie seront capables de dominer les aspects technique et managérial
+                     qui les qualifieront à exercer des métiers d’ingénierie aussi variés que :
+                      Statisticien
+                      Prévisionnistes
+                      Méthodologue au sein des instituts de sondage, des grandes entreprises, des
+                     administrations et des sociétés de conseil.
+                      Économiste
+                      Économètre
+                  </descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Statistique - Démographie</nom>
+                  <descriptif>Discipline(s) (Par ordre d’importance relative) :
+                     1. Analyse démographique
+                     2. Projections démographiques
+                     3. Evolution et comportement démographique
+                     4. Enquêtes Statistiques : Sondage et Recensement
+                     5. Analyse et Modélisation Statistique
+                     6. Développement humain/développement durable</descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Informatique</nom>
+                  <descriptif>Les compétences à acquérir par les lauréats sont :
+                     - Maitrise des méthodes, des technologies et des Framework de développement ;
+                     - Analyse, conception, réalisation et gestion des Systèmes d’Information (SI) ;
+                     - Audite des SI ;
+                     - Mise en œuvre des outils d’aide à la décision informatisés ;
+                     - Elaboration des indicateurs métiers pour les systèmes d’aide à la prise de décision ;
+                     - Mise en œuvre, gestion et exploitation des environnements Big Data ;
+                     - Compétences en gestion de l’entreprise selon une approche informatique.
+                      Acquérir une vision conceptuelle dans un environnement pluridisciplinaire tant au
+                     niveau stratégique qu’opérationnel. </descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Recherche Opérationnelle et Aide à la Décision</nom>
+                  <descriptif>L’ingénieur issu de la filière Recherche Opérationnelle et Aide à la Décision peut exercer son
+                     métier dans tous les grands secteurs. On peut notamment citer :
+                     - la production, la logistique, le transport
+                     - les télécommunications
+                     - l’aéroportuaire, le ferroviaire
+                     - les organismes financiers, la banque, l’assurance
+                     - les cabinets de conseil, les cabinets d’audit, les bureaux d’études
+                     - les sociétés informatiques
+                     - les services d’études des administrations
+                     - les centres universitaires et de recherche.
+                     Les postes visés se situent généralement dans les directions stratégiques, en tant que consultant
+                     ou ingénieur-production, logistique, qualité, financier…
+                  </descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Actuariat - Finance</nom>
+                  <descriptif>Les ingénieurs diplômés de la filière Actuariat-Finance auront toutes les compétences pour
+                     occuper rapidement des responsabilités de cadres supérieures dans le secteur des banques et
+                     assurances. Les lauréats de la filière Actuariat-Finance seront capables de dominer les aspects
+                     technique et managérial qui les qualifient à s'insérer dans plusieurs secteurs. La nature même de
+                     la formation en statistique de l’INSEA permet aux diplômés de la filière Actuariat-Finance d’être
+                     en premier des statisticiens capables de développer une expertise scientifique de très haut niveau
+                     et d’appliquer leurs compétences mathématiques, informatiques et statistiques pour développer
+                     des modèles dans une grande variété de contextes.
+                  </descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Data and Software Engineering (DSE ) </nom>
+                  <descriptif>L’objectif est de fournir à l’ingénieur des données et des logiciels de l’INSEA une formation polyvalente :
+                     1) L’ingénieur doit acquérir, lors de ses études, des bases solides qui s’alignent à la formation de base de
+                     l’ingénieur informaticien par le biais des modules suivants : Algorithmique et programmation, Architectures
+                     des ordinateurs, Systèmes d’exploitation, Techniques de compilation, Réseaux informatiques, Développement
+                     Web, Intelligence Artificielle, etc.; </descriptif>
+               </filiere>	
+               
+            </filieres>	
+         </diplome>
+         <diplome>
+            <nom>Diplome de master</nom>
+            <duree>2 ans</duree>
+            <filieres>
+               <filiere>
+                  <nom>Master Recherche en Sciences des données et Big Data</nom>
+                  <descriptif>Le master recherche SCIENCE DE DONNEES ET BIG DATA vise à former des chercheurs pluridisciplinaires dans le domaine du stockage, organisation, fouille et analyse des données massives en leur donnant un bagage théorique solide et les outils technologiques nécessaires pour mener des recherches dans ce domaine.</descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Master spécialisé en Internet des objets et services mobiles</nom>
+                  <descriptif>La formation en master « Internet des Objets : Logiciel et Analytique » (MIOLA) offre l’opportunité aux apprenants de découvrir et de se perfectionner dans les technologies émergentes notamment : l’Internet des Objets, l’Ingénierie Web et Mobile, DevOps, UX Design, le Cloud et Virtualisation</descriptif>
+               </filiere>	
+               
+            </filieres>	
+         </diplome>
+      </diplomes>
+      
+   </ecole>
+   
+   
+   <ecole type="public">
+      <nom acronyme="INPT">Institur national des postes et télécommunications</nom>
+      <date-creation>1961</date-creation>
+      <categorie>Ecole d'ingénieur</categorie>
+      <descriptif>L'Institut national des postes et télécommunications (INPT) , situé à Rabat, capitale administrative du Maroc, est l'une des grandes écoles d’ingénieurs marocaines. Elle est attachée à l'ANRT et offre une formation polyvalente dans le domaine des technologies de l'information et de la communication</descriptif>
+      <image>images/inpt.jpg</image>
+      <adresse>Institut national des postes et télécommunications ,Avenue Allal Al Fassi, Rabat</adresse>
+      <site>https://www.inpt.ac.ma/</site>
+      <email>--</email>
+      <telephones>
+         <telephone>+212 538002 830</telephone>
+         
+      </telephones>
+      
+      
+      <diplomes>
+         <diplome>
+            <nom>Ingénieur d'état</nom>
+            <duree>5 ans</duree>
+            <filieres>
+               <filiere>
+                  <nom>Filière Data Engineer- Ingénieur des Sciences de Données</nom>
+                  <descriptif>eLe Data engineer est un profil dédié au traitement des données massives. Il a pour rôle, entre autres, de valoriser l’ensemble des données de l’entreprise pour en faire un levier de création de valeur pour cette dernière (modèles prédictifs, etc.)</descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Filière Advanced Software Engineering for Digital Services (A.S.E.D.S)</nom>
+                  <descriptif>L’ingénieur Développement des Services Numériques conçoit, développe et met au point des solutions applicatives et logicielles, depuis la phase d'étude jusq'au développement, en utilisant le langage approprié au profit d'un client </descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Filière Systèmes Embraqués et Services Numériques</nom>
+                  <descriptif>L’ingénieur des Systèmes et Services Numériques est en charge de la spécification, la conception et le développement des applications et fonctionnalités propres aux solutions relatives à la technologie « embarquée » dans des équipements. </descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Filière Ingénierie Smart  ICT« Smart Information et Communication Technology Engineering »</nom>
+                  <descriptif>IL’Ingénieur Smart ICT conçoit, planifie, développe et réalise les architectures, les plateformes et les solutions techniques et technologiques des réseaux intelligents modernes de télécommunications.</descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Filière Ingénierie des Systèmes Ubiquitaires et Distribués – Cloud et IoT (SUD)</nom>
+                  <descriptif>L’ingénieur cloud et IoT accompagne les mutations des systèmes d’information des entreprises vers l’informatique dans le cloud, notamment à travers la dématérialisation des infrastructures IT et des services numériques y afférents</descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Filière Ingénieur Cybersécurité Et Confiance Numérique</nom>
+                  <descriptif>Expert en sécurité informatique, l'ingénieur confiance numérique se doit d'assurer la protection des données et le bon fonctionnement des infrastructures techniques. Il met en échec les tentatives d'intrusion des pirates info </descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Filière Ingénieur Innovation et AMOA</nom>
+                  <descriptif>L’ingénieur innovation et AMOA joue dans un premier temps le rôle d’entrepreneur, en réalisant un projet d’innovation dans le numérique, à travers la création d’une start-up à fort potentiel de croissance au service du dév </descriptif>
+               </filiere>	
+               
+            </filieres>	
+         </diplome>
+         <diplome>
+            <nom>Diplome de master</nom>
+            <duree>2 ans</duree>
+            <filieres>
+               <filiere>
+                  <nom>Master Recherche en Sciences des données et Big Data</nom>
+                  <descriptif>Le master recherche SCIENCE DE DONNEES ET BIG DATA vise à former des chercheurs pluridisciplinaires dans le domaine du stockage, organisation, fouille et analyse des données massives en leur donnant un bagage théorique solide et les outils technologiques nécessaires pour mener des recherches dans ce domaine.</descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Master spécialisé en Internet des objets et services mobiles</nom>
+                  <descriptif>La formation en master « Internet des Objets : Logiciel et Analytique » (MIOLA) offre l’opportunité aux apprenants de découvrir et de se perfectionner dans les technologies émergentes notamment : l’Internet des Objets, l’Ingénierie Web et Mobile, DevOps, UX Design, le Cloud et Virtualisation</descriptif>
+               </filiere>	
+               
+            </filieres>	
+         </diplome>
+      </diplomes>
+      
+   </ecole>
+   
+   
+   <!-- Filière Génie Génie Electrique --> 
+   
+   <ecole type="public">
+      <nom acronyme="ENSMR">Ecole Nationale Supérieure des Mines de Rabat</nom>
+      <date-creation>1972</date-creation>
+      <categorie>Ecole d'ingénieur</categorie>
+      <descriptif>L'École Nationale Supérieure des Mines de Rabat (ENSMR) ou Mines Rabat, en anglais connue sous le nom de Rabat School of Mines, est l'une des plus anciennes et grandes écoles marocaines d'ingénieurs d'État. L'ancien nom de l'école est l'École Nationale de l'Industrie Minérale (ENIM).</descriptif>
+      <image>images/ensmr.jpg</image>
+      <adresse>Avenue Mohammed Ben Abdallah Regragui, Madinat Al Irfane, BP 713, Agdal Rabat, Maroc</adresse>
+      <site>https://www.enim.ac.ma/</site>
+      <email>--</email>
+      <telephones>
+         <telephone>0670-567732</telephone>
+         
+      </telephones>
+      
+      
+      <diplomes>
+         <diplome>
+            <nom>Ingénieur d'état</nom>
+            <duree>5 ans</duree>
+            <filieres>
+               <filiere>
+                  <nom>Mines</nom>
+                  <descriptif>L’objectif de la filière Génie Minier est de permettre aux futurs ingénieurs d’acquérir une formation scientifique et technique dans les domaines de l’aménagement, l’exploitation et la valorisation du sol et sous-sol. Les secteurs professionnels concernés sont l’exploitation et la gestion des ressources naturelles, la construction d’ouvrages miniers et de génie civil, l’aménagement et la protection contre la pollution des sites souterrains et à ciel ouvert et la valorisation des déchets miniers, industriels et ménagers...</descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Sciences de la terre </nom>
+                  <descriptif>L'’objectif est de former des ingénieurs de haut niveau et de les préparer à une carrière captivante, grâce à un programme multidisciplinaire dont la composante pratique est la plus forte.
+                     En effet, Les modules scientifiques et techniques de base et de spécialisation incluent en particulier une base solide en sciences de la Terre, suivie d’un approfondissement dans des disciplines quantitatives comme la géotechnique, géomatique, géotechnologie, Géo environnement, hydraulique souterraine, hydrogéologie, hydrologie, etc. Chaque élément de module comporte des travaux pratiques qui visent à développer chez l’étudiant le sens de l’observation, la capacité d’analyse et la capacité de rédiger des rapports techniques. Deux écoles de terrain de 40 jours, de nombreuses visites de chantiers et excursions complètent la préparation du futur ingénieur pour le marché du travail.</descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Ingénierie des Procédés</nom>
+                  <descriptif>Cette filière a comme objectif de former des ingénieurs de conception dans le domaine industriel, capables d’assurer la conduite, la gestion et le design des procédés de fabrication ou de transformation de la matière.
+                     
+                  </descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Matériaux et contrôle qualité</nom>
+                  <descriptif>Former des ingénieurs d’états spécialisés en matériaux et contrôle qualité. L’ingénieur devra être en mesure d’intervenir tant au niveau du contrôle métallurgique des divers types de matériaux (métalliques, plastiques, céramiques, composites, …) qu’au niveau des exigences de la qualité pour le contrôle des matières de production et des produits finis. En plus de la maîtrise des moyens et des techniques de contrôle et de caractérisation des matériaux, un accent particulier est mis sur la démarche intégrée de management de la qualité conformément à la norme ISO 9000. </descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Electromécanique</nom>
+                  <descriptif>Acquérir des compétences professionnelles nécessaires à l’exercice de la fonction d’un ingénieur électromécanicien. La polyvalence est l’aspect de la formation. A sa sortie de l’établissement, le diplômé doit posséder une culture pluri disciplinaire lui permettant :
+                     
+                     D’analyser des systèmes industriels en phase de conception, d’exploitation et de maintenance.
+                     De s’adapter rapidement à la diversité des situations de l’industrieModules Optionnels :</descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Informatique</nom>
+                  <descriptif>L'amélioration permanente de la performance des entreprises exige des managers ayant des compétences portant sur des facettes multiples. Il s'agit notamment de maîtriser les systèmes d'information et les technologies associées, la gestion industrielle ainsi que le management de projets et des ressources humaines.  
+                     
+                     Afin de mener à bien les projets de mise en place de SI, de production, de logistique, d'amélioration de la qualité et des délais, la formation en MSIP propose un programme équilibré dans les domaines du management, de l'informatique et de la production.  </descriptif>
+               </filiere>	
+               
+            </filieres>	
+         </diplome>
+         <diplome>
+            <nom>Diplome de master</nom>
+            <duree>2 ans</duree>
+            <filieres>
+               <filiere>
+                  <nom>Master Recherche en Sciences des données et Big Data</nom>
+                  <descriptif>Le master recherche SCIENCE DE DONNEES ET BIG DATA vise à former des chercheurs pluridisciplinaires dans le domaine du stockage, organisation, fouille et analyse des données massives en leur donnant un bagage théorique solide et les outils technologiques nécessaires pour mener des recherches dans ce domaine.</descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Master spécialisé en Internet des objets et services mobiles</nom>
+                  <descriptif>La formation en master « Internet des Objets : Logiciel et Analytique » (MIOLA) offre l’opportunité aux apprenants de découvrir et de se perfectionner dans les technologies émergentes notamment : l’Internet des Objets, l’Ingénierie Web et Mobile, DevOps, UX Design, le Cloud et Virtualisation</descriptif>
+               </filiere>	
+               
+            </filieres>	
+         </diplome>
+      </diplomes>
+      
+   </ecole>
+   
+   <ecole type="public">
+      <nom acronyme="ENSEM">L’École nationale supérieure d'électricité et de mécanique (ENSEM) </nom>
+      <date-creation> 1986 </date-creation>
+      <categorie>Ecole d'ingénieur</categorie>
+      <descriptif>L’École nationale supérieure d'électricité et de mécanique (ENSEM) est l'une des grandes écoles d’ingénieurs marocaines située à Casablanca créée en 1986 et rattachée à l'Université Hassan II de Casablanca.</descriptif>
+      <image>images/ensem.jpg</image>
+      <adresse>Route d'El Jadida, km 7, BP : 8118, Oasis - Casablanca Maroc.</adresse>
+      <site>http://www.ensem.ac.ma/</site>
+      <email>contact@ensem.ac.ma</email>
+      <telephones>
+         <telephone>0522275467</telephone>	
+      </telephones>
+      
+      
+      <diplomes>
+         <diplome>
+            <nom>Ingénieur d'état</nom>
+            <duree>5 ans</duree>
+            <filieres>
+               <filiere>
+                  <nom>Génie électrique</nom>
+                  <descriptif>Génie des systèmes électriques (GSE), Génie Automatique et Informatique Industrielle (AII), Électronique et télécommunication (ET).</descriptif>
+               </filiere>
+               <filiere>
+                  <nom>Génie mécanique</nom>
+                  <descriptif>Génie des systèmes mécaniques (GSM), Construction mécanique et production intégrée (CMPI), Qualité, maintenance et sécurité industrielle (QMSI), Génie Plasturgie (GP) </descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Génie civil</nom>
+                  <descriptif>LLe Génie Civil regroupe de nombreux corps d'états; des travaux de fondations à la pose de la charpente, en passant par la maçonnerie, l'électricité, la plomberie. </descriptif>
+               </filiere>	
+               <filiere>
+                  <nom>Génie industriel</nom>
+                  <descriptif>Le génie industriel s'attarde comme discipline à examiner comment mieux faire les choses. Cette discipline du génie concerne : la conception et la gestion des processus et des systèmes qui améliorent la qualité et la productivité de la chaîne logistique des entreprises. </descriptif>
+               </filiere>	
+               
+               
+            </filieres>	
+         </diplome>
+      </diplomes>
+      
+   </ecole>
+ 
+  
+</gestion_ecole>
+

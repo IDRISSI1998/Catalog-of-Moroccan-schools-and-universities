@@ -1,0 +1,38 @@
+<!ELEMENT gestion_ecole (universite|ecole)*>
+
+<!ATTLIST universite type CDATA "public">
+<!ATTLIST ecole type CDATA "public">
+
+<!ELEMENT universite (nom, date-creation, composantes, descriptif, image, adresse, site, email, telephones)>
+<!ELEMENT ecole (nom, date-creation, categorie, descriptif, image, adresse, site, email, telephones, diplomes)>
+
+<!ELEMENT nom (#PCDATA)*>
+<!ATTLIST nom acronyme CDATA "">
+<!ELEMENT date-creation (#PCDATA)*>
+<!ELEMENT descriptif (#PCDATA)*>
+<!ELEMENT image (#PCDATA)*>
+<!ELEMENT adresse (#PCDATA)*>
+<!ELEMENT site (#PCDATA)*>
+<!ELEMENT email (#PCDATA)*>
+<!ELEMENT telephones (telephone)*>
+<!ELEMENT telephone (#PCDATA)*>
+
+
+
+
+<!ELEMENT composantes (#PCDATA)*>
+
+
+<!ELEMENT categorie (#PCDATA)*>
+<!ELEMENT diplomes (diplome)*>
+<!ELEMENT diplome (nom, duree, filieres)>
+<!ELEMENT duree (#PCDATA)*>
+<!ELEMENT filieres (filiere)*>
+<!ELEMENT filiere (nom, descriptif)>
+
+
+
+
+
+
+   
